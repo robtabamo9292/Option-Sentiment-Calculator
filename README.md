@@ -1,4 +1,4 @@
-# Option-Sentiment-Calculator
+# VIBE CODDED Option-Sentiment-Calculator
 Analyze options chains to determine market sentiment with weighted scoring.
 
 **⚠️ Disclaimer**: 
